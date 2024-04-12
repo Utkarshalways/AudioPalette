@@ -45,7 +45,7 @@ const OnStart = () => {
 
   return (
     <div className="basecolor  w-full min-h-screen  flex flex-col justify-center items-center gap-2 font-noto">
-      <p className="text-white p-4">
+      <p className="text-white p-3 text-center">
         AudioPalette is a minimalist web app that lets you change the background
         color of the webpage using your voice. Simply toggle the microphone on
         and off to start speaking color commands.
@@ -54,7 +54,7 @@ const OnStart = () => {
         <button
           className="border-2 border-black p-1.5  rounded-xl flex justify-center items-center "
           onClick={OnStart}
-        >
+        >S
           <span className="material-symbols-outlined ">mic</span>
         </button>
         <button
