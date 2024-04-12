@@ -54,7 +54,7 @@ const OnStart = () => {
         <button
           className="border-2 border-black p-1.5  rounded-xl flex justify-center items-center "
           onClick={OnStart}
-        >S
+        >
           <span className="material-symbols-outlined ">mic</span>
         </button>
         <button
