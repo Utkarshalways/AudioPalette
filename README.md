@@ -1,4 +1,4 @@
-# [AudioPalette](https://7zpwzc-5173.csb.app/)      
+# [AudioPalette](https://7zpwzc-5173.csb.app/)  
 
 AudioPalette is a minimalist web app that allows users to change the background color of a webpage using their voice. With just two buttons for toggling the microphone on and off, AudioPalette offers a simple and intuitive user experience.
 
@@ -24,7 +24,7 @@ Ready to give your voice a splash of color? Click on the "Microphone On" button 
 
 ## Feedback
 
-We welcome your feedback! If you have any suggestions, questions, or encounter any issues while using AudioPalette, please don't hesitate to reach out to us at [unknownbrry@gmail.com].
+We welcome your feedback! If you have any suggestions, questions, or encounter any issues while using AudioPalette, please don't hesitate to reach out at [Email](mailto:unknownbrry@gmail.com).
 
 ## About Us
 
