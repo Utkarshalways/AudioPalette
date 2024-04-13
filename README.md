@@ -28,4 +28,4 @@ We welcome your feedback! If you have any suggestions, questions, or encounter a
 
 ## About Us
 
-AudioPalette is developed by [UtkarshAlways]("https://github.com/Utkarshalways"), a team passionate about creating simple yet innovative web experiences. Learn more about us [Github]("https://github.com/Utkarshalways/AudioPalette").
+AudioPalette is developed by [UtkarshAlways](https://github.com/Utkarshalways), a team passionate about creating simple yet innovative web experiences. Learn more about us [Github](https://github.com/Utkarshalways/AudioPalette).
